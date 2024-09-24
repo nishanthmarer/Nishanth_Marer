@@ -1,2 +1,2 @@
-# Nishanth_Website
+# Nishanth's Webiste
 This is Nishanth's webiste
